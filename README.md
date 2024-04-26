@@ -1,5 +1,5 @@
 
-<img alt="Black friday eletrônicos fotográfico azul preto banner para site">
+<img src="Black friday eletrônicos fotográfico azul preto banner para site">
 </p>
 
 
