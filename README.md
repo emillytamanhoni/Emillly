@@ -56,7 +56,14 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 - [x] Aprendizagem de análise de dados;
 - [x] Analise primaria dos Arquivos;
 - [x] Montagem da apresentação;    
-  
+
+# Aplicativo Power APPS
+
+ <img src="pag 1.png">
+
+<img src="pag 2.png">
+
+<img src="pag 3.png">
 
 <!-- ## Obrigado por acessar nosso GitHub! :sparkles: -->
 <p align="center">
