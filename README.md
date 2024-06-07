@@ -63,9 +63,9 @@ Os objetivos definidos para esse projeto compõem-se em:
 
 # Aplicativo Power Automate
 
- <img src="pag 1.png">
+ <img src="automate.png">
 
-<img src="pag 2.png">
+<img src="tela automate.png">
 
 <!-- ## Obrigado por acessar nosso GitHub! :sparkles: -->
 <p align="center">
