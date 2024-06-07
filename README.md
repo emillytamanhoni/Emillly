@@ -38,6 +38,9 @@ Os objetivos definidos para esse projeto compõem-se em:
 >  * Canva
 >  * Chat GPT
 
+# Apresentação
+[Visualizar Apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # Aplicativo Excel
 
 <img src="excel.png">
