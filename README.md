@@ -38,6 +38,11 @@ Os objetivos definidos para esse projeto compõem-se em:
 >  * Canva
 >  * Chat GPT
 
+# Aplicativo Excel
+
+<img src="excel.png">
+
+
 # Aplicativo Power Bi
 
 <img src="power bi.png">
