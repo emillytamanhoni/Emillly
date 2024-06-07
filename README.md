@@ -36,7 +36,8 @@ Os objetivos definidos para esse projeto compõem-se em:
  > * Github
  > * Power BI
 >  * Canva
->  * Chat GPT
+>  * Excel
+>  * Power Automate
 
 # Apresentação
 [Visualizar Apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -59,6 +60,12 @@ Os objetivos definidos para esse projeto compõem-se em:
 
 <img src="pag 3.png">
 
+
+# Aplicativo Power Automate
+
+ <img src="pag 1.png">
+
+<img src="pag 2.png">
 
 <!-- ## Obrigado por acessar nosso GitHub! :sparkles: -->
 <p align="center">
