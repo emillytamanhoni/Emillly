@@ -65,6 +65,10 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 
 <img src="pag 3.png">
 
+# Aplicativo Power Bi
+
+
+
 <!-- ## Obrigado por acessar nosso GitHub! :sparkles: -->
 <p align="center">
 <img alt=" />
