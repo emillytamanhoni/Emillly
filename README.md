@@ -37,25 +37,11 @@ Os objetivos definidos para esse projeto compõem-se em:
  > * Power BI
 >  * Canva
 >  * Chat GPT
-  
 
+# Aplicativo Power Bi
 
-# Sprints
+<img src="power bi.png">
 
-
-# Gestão do Projeto
-
-Na gestão do projeto nós atribuímos as atividades à serem realizadas ao longo das sprints através do Jira Software e assim obtivemos a estrutura fundamental para a realização do produto a ser entregue.
- [Clique aqui](https://evelyncaroline.atlassian.net/jira/software/projects/EL/boards/1/backlog?selectedIssue=EL-50) e tenha acesso ao noso Backlog e Cronograma das sprints
- 
-
-## Sprint 1. Concepção
-- [x] Aprendizado para desenvolvimento do PowerBi;
-- [x] Estruturaçãodo GuitHub;
-- [x] Relatório das pesquisas realizadas;
-- [x] Aprendizagem de análise de dados;
-- [x] Analise primaria dos Arquivos;
-- [x] Montagem da apresentação;    
 
 # Aplicativo Power APPS
 
@@ -64,9 +50,6 @@ Na gestão do projeto nós atribuímos as atividades à serem realizadas ao long
 <img src="pag 2.png">
 
 <img src="pag 3.png">
-
-# Aplicativo Power Bi
-
 
 
 <!-- ## Obrigado por acessar nosso GitHub! :sparkles: -->
