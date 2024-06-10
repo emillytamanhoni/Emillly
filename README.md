@@ -4,14 +4,6 @@
 
 
 
-# ROADELITE LOGISTICS
-Paving the way for solutions | Abrindo caminhos para soluções!
-
-Uma empresa especializada em fornececer soluções logísticas tecnológicas e ambientais, cujo objetivo é compreender as necessidades para melhor atendê-las. 
-
-Nossa missão é estabelecer-nos como uma referência global em soluções logísticas e tecnológicas, com o objetivo de melhorar à circulação dos transportes, priorizando a sustentabilidade e a otimização de custos, garantindo ao mesmo tempo a máxima rentabilidade possível.
-
-Nossos valores fundamentam-se na honestidade, transparência, simplicidade, estreito relacionamento com clientes internos e externos, e no apoio a projetos socioambientais.
 
 # Índice
 
